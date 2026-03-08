@@ -30,7 +30,6 @@ A **Streamlit-based AI chatbot** that lets you chat with the content of any **Yo
 ## ⚙️ Setup & Installation
 
 git clone https://github.com/your-username/youtube-chatbot.git
-cd youtube-chatbot
 
 pip install -r requirements.txt
 
