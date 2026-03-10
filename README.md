@@ -36,6 +36,7 @@ pip install -r requirements.txt
 GOOGLE_API_KEY=your_google_api_key
 
 GROQ_API_KEY=your_groq_api_key
+
 HUGGINGFACEHUB_API_TOKEN=your_huggingface_token
 
 streamlit run app.py
